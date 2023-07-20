@@ -1,0 +1,14 @@
+Juego 1
+Titulo: lol
+ Horas estimadas: 235
+ Estado: disponible
+ Genero: riot
+ Company: accion
+
+Juego 2
+Titulo: valorant
+ Horas estimadas: 23
+ Estado: disponible
+ Genero: accion
+ Company: riot
+
